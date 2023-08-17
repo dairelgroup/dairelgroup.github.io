@@ -9,7 +9,7 @@ DAIREL is a Data Science research group at the University of Wolverhampton in th
 
 - **DA** stands for _data_, the building block of our work and the fuel of our information society;
 - **AI** stands for _Artificial Intelligence_, including Deep Learning, Reinforcement Learning, Transformers, Embeddings, Logics and other data processing and generation technologies we are applying in our work;
-- **I** stands for _Interaction_, to investigate how users are using and interacting with data and information for their tasks and provide solutions to enable them to do so in a fair and unbiased manner;
+- **I** stands for _Interaction_, to investigate how users interacting with data and information for their tasks, and to provide solutions for fair and unbiased interaction;
 - **IRE** stands for _Information Retrieval_, the task of satisfying user's information needs;
 - **REL** stands for _Relevance_, a core concept in Information Retrieval; to tackle information overload, we need to separate relevant from irrelevant information;
 - **L** stands for _language_, including (generative) natural language technologies and Large Language Models, essential tools to help analyse textual and multimodal data, and driving conversational agents.
