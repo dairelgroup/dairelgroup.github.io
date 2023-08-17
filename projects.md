@@ -12,7 +12,7 @@ EU Horizon Europe MSCS Staff Exchange Project (guarantee funded by UKRI)
 Digital Humanities with Deep Learning and NLP  
 Internally funded project at the University of Wolverhampton
 
-# Past Projects
+# Selected Past Projects
 **[SOLVD](https://www.wlv.ac.uk/business-services/project-legacy-page/solvd/)**  
 Digital Technologies for SMEs in Telford & Wrekin and Shropshire  
 EU European Regional Development Fund Knowledge Transfer project
