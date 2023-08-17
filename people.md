@@ -6,14 +6,12 @@ title: DAIREL People
 
 ## Head
 
-[Dr Ingo Frommholz](http://www.frommholz.org/)
+**[Dr Ingo Frommholz](http://www.frommholz.org/), Reader in Data Science**
 
-Reader in Data Science, University of Wolverhampton, UK
-
-Working on Interactive Information Access and Retrieval
+Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
 
 ## PhD Students
 
 **Kanishka Silva**
 
-Working on authorship attribution in 19th-century texts
+Authorship attribution in 19th-century texts
