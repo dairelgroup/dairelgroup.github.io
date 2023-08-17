@@ -22,6 +22,7 @@ paginate_path: "/blog/page:num/"
 ###############################################
 
 navbar-links:
+  Projects: "projects"
   People: "people"
 #  About Me: "aboutme"
 #  Resources:
