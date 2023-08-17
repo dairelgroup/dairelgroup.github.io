@@ -6,9 +6,11 @@ title: DAIREL People
 
 ## Head
 
+<p class='box-note' markdown='1'>
 > **[Dr Ingo Frommholz](http://www.frommholz.org/)**  
 > Reader (~Associate Professor) in Data science  
 > Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
+</p>
 
 ## PhD Students
 
