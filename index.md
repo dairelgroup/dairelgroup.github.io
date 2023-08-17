@@ -7,7 +7,7 @@ subtitle: Data, AI, Interaction, Retrieval and Language Lab
 
 DAIREL is a Data Science research group at the University of Wolverhampton in the UK. The group focuses on all aspects of data, information and the interaction with it, with the aim to reduce Information Overload. DAIREL's research tries to bridge the gap between data-driven (e.g., application of Artificial Intelligence (AI), Machine Learning and Language Technologies in Big Data collections) and user-driven (e.g., by looking at how users interact with information) approaches. DAIREL follows a holistic view that combines a system-oriented with a user-oriented view. In the nature of the thought experiment of Schrödinger's Cat, the different n-grams of DAIREL can be interpreted differently at the same time:
 
-- **DA** stands for _data_, the building block of our work and the fuel of our information society;
+- **DA** stands for _data_, the building block of our work and the fuel of our information society; data can be textual or multimedia as well as heterogeneous;
 - **AI** stands for _Artificial Intelligence_, including Deep Learning, Reinforcement Learning, Transformers, Embeddings, Logics and other data processing and generation technologies we are applying in our work;
 - **I** stands for _Interaction_, to investigate how users interacting with data and information for their tasks, and to provide solutions for fair and unbiased interaction;
 - **IRE** stands for _Information Retrieval_, the task of satisfying user's information needs;
