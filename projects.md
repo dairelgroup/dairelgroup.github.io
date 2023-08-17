@@ -4,7 +4,7 @@ title: Projects
 ---
 # Current Projects
 
-**[OMINO](http://ominoproject.eu)** 
+**[OMINO](http://ominoproject.eu)**  
 Overcoming Multilevel Information Overload  
 EU Horizon Europe MSCS Staff Exchange Project (guarantee funded by UKRI)
 
