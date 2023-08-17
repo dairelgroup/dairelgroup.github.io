@@ -21,7 +21,8 @@ paginate_path: "/blog/page:num/"
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
+navbar-links:
+  People: people
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -129,14 +130,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAFF"
+navbar-col: "#EBAEAFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDFF"
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#F8F8F8"
+text-col: "#303030"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAFF"
+footer-col: "#BAEAFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
