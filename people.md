@@ -7,27 +7,39 @@ title: DAIREL People
 ## Head
 
 <p class='box-note' markdown='1'>
-> **[Dr Ingo Frommholz](http://www.frommholz.org/)**  
-> Reader (~Associate Professor) in Data science  
-> Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
+**[Dr Ingo Frommholz](http://www.frommholz.org/)**  
+Reader (~Associate Professor) in Data science  
+Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
 </p>
 
 ## PhD Students
 
-> **Kanishka Silva**  
-> Authorship attribution in 19th-century texts using transformers and large language models; scholarly search
+<p class='box-note' markdown='1'>
+**Kanishka Silva**  
+Authorship attribution in 19th-century texts using transformers and large language models; scholarly search
+</p>
 
-> **Damith Premasiri Dola Mullage**  
-> Information Extraction and Categorisation in legal texts using large language models
+<p class='box-note' markdown='1'>
+**Damith Premasiri Dola Mullage**  
+Information Extraction and Categorisation in legal texts using large language models
+</p>
 
-> **Isuri Anuradha Nanomi Arachchige**  
-> Information Extraction in historic texts
+<p class='box-note' markdown='1'>
+**Isuri Anuradha Nanomi Arachchige**  
+Information Extraction in historic texts
+</p>
 
-> **Jordan Brennan**  
-> Information Retrieval models in scholarly search
+<p class='box-note' markdown='1'>
+**Jordan Brennan**  
+Information Retrieval models in scholarly search
+</p>
 
-> **Oliver Cakebread-Andrews**  
-> Sarcasm detection in Japanese texts
+<p class='box-note' markdown='1'>
+**Oliver Cakebread-Andrews**  
+Sarcasm detection in Japanese texts
+</p>
 
-> **Rocío Caro Quintana**  
-> Automatic translation of Spanish texts
+<p class='box-note' markdown='1'>
+**Rocío Caro Quintana**  
+Automatic translation of Spanish texts
+</p>
