@@ -7,27 +7,25 @@ title: DAIREL People
 ## Head
 
 **[Dr Ingo Frommholz](http://www.frommholz.org/)**  
-Reader in Data science  
+Reader (~Associate Professor) in Data science  
 Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
 
 ## PhD Students
 
-**Kanishka Silva**
-
+**Kanishka Silva**  
 Authorship attribution in 19th-century texts using transformers and large language models; scholarly search
 
-**Damith Premasiri Dola Mullage**
+**Damith Premasiri Dola Mullage**  
+Information Extraction and Categorisation in legal texts using large language models
 
-Information Extraction and Categorisation in legal texts
-
-**Isuri Anuradha Nanomi Arachchige**
-
+**Isuri Anuradha Nanomi Arachchige**  
 Information Extraction in historic texts
 
-**Jordan Brennan**
+**Jordan Brennan**  
+Information Retrieval models in scholarly search
 
-Information Retrieval Models in scholarly search
-
-**Oliver Cakebread-Andrews**
-
+**Oliver Cakebread-Andrews**  
 Sarcasm detection in Japanese texts
+
+**Rocío Caro Quintana**  
+Automatic translation of Spanish texts
