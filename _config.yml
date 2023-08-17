@@ -22,7 +22,7 @@ paginate_path: "/blog/page:num/"
 ###############################################
 
 navbar-links:
-People: "people"
+  People: "people"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
