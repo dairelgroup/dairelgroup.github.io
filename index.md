@@ -20,7 +20,7 @@ We think all these different parts that make DAIREL should not be seen in isolat
 
 DAIREL's mission is to provide solutions to support users in their different tasks and domains when dealing with data and information. Our research topics and interests include
 
-* User-centred Interactive Information Access and Retrieval
+* User-centric Information Access and Retrieval
   * Interactive Models for multimodal information access inspired by Quantum Mechanics
   * Polyrepresentation and Information Foraging Theory
   * Bibliometric-enhanced Information Retrieval
