@@ -46,5 +46,6 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Digital Libraries and Digital Museums
   * Scholarly Search and Recommendation
   * Cyberstalking Detection
+  * Sarcasm Detection
   * Expert Search
 
