@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The DAIREL Group
+title: DAIREL Group
 subtitle: Data, AI, Interaction, Retrieval and Language
 ---
 # About DAIREL
