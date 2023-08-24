@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: DAIREL Lab
+title: DAIREL
 
 # Your name to show in the footer
-author: The DAIREL Lab
+author: The DAIREL Group
 
 paginate_path: "/blog/page:num/"
 
