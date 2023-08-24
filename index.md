@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The DAIREL Lab
-subtitle: Data, AI, Interaction, Retrieval and Language Lab
+title: The DAIREL Group
+subtitle: Data, AI, Interaction, Retrieval and Language
 ---
 # About DAIREL
 
