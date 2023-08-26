@@ -1,9 +1,8 @@
 ---
 layout: page
-title: DAIREL Group @ WLV
+title: DAIREL@WLV
 subtitle: Data, AI, Interaction, Retrieval and Language
 ---
-# About DAIREL
 
 DAIREL is a Data Science research group at the University of Wolverhampton in the UK. The group focuses on all aspects of data, information and the interaction with it, with the aim to reduce information overload. Recent developments in language models, artificial intelligence, human-computer interaction and information retrieval are continuing to transform our information society on several levels. To exploit the opportunities and address the challenges these developments bring with it, DAIREL's research bridges the gap between data-driven and user-driven approaches to support users' interaction with data and information in Big Data collections, in a fair and unbiased manner. DAIREL therefore follows a holistic view that integrates user as well as system aspects, which should not be seen in isolation. In the nature of the thought experiment of Schrödinger's Cat, the different n-grams of the DAIREL acronym can be interpreted differently at the same time:
 
