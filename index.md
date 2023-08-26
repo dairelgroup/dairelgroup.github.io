@@ -37,7 +37,6 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Authorship Attribution
   * Large Language Models and Embeddings
   * Information Extraction
-  * Cyberstalking Detection
   * Text Categorisation
 
 * Example Applications
