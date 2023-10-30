@@ -8,7 +8,7 @@ title: DAIREL People
 
 <p class='box-note' markdown='1'>
 **[Dr Ingo Frommholz](http://www.frommholz.org/)**  
-Reader (~Associate Professor) in Data science  
+Reader (~Associate Professor) in Data Science  
 Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
 </p>
 
@@ -26,7 +26,7 @@ Information Extraction and Categorisation in legal texts using large language mo
 
 <p class='box-note' markdown='1'>
 **Isuri Anuradha Nanomi Arachchige**  
-Information Extraction in historic texts
+Automatic extraction of information from holocaust testimonies
 </p>
 
 <p class='box-note' markdown='1'>
