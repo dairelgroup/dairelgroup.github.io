@@ -24,7 +24,7 @@ DAIREL's mission is to provide solutions to support users in their different tas
 * User-centric Information Access and Retrieval
   * Retrieval-augmented generation
   * Interactive Models for multimodal information access inspired by Quantum Mechanics
-  * Polyrepresentation and Information Foraging Theory
+  * Integration of cognitive theories (e.g, Polyrepresentation and Information Foraging)
   * Bibliometric-enhanced Information Retrieval
   * Cross-cultural Information Retrieval
   * Conversational agents
