@@ -6,7 +6,7 @@ subtitle: Data, AI, Interaction, Retrieval and Language
 
 DAIREL is the Data Science and Artificial Intelligence research group at the University of Wolverhampton in the UK. The group focuses on all aspects of data, information and the interaction with it. Our aim is to reduce information overload caused by the huge amount of heterogeneous data constantly generated in all disciplines, and support users in accessing relevant information effectively and efficiently. We provide expertise and conduct research in deep machine learning, generative AI, user-centric information retrieval and natural language processing.
 
-Recent developments in large language models, artificial intelligence, machine learning, human-computer interaction and information retrieval are continuing to transform our information society on several levels. To exploit the opportunities and address the challenges these developments bring with it, DAIREL's research bridges the gap between data-driven and user-driven approaches to support users' interaction with data and information in Big Data collections, in a fair and unbiased manner. DAIREL therefore follows a holistic view that integrates user as well as system aspects, which should not be seen in isolation. In the nature of the thought experiment of Schrödinger's Cat, the different n-grams of the DAIREL acronym can be interpreted differently at the same time:
+Recent developments in large language models, artificial intelligence, machine learning, human-computer interaction and information retrieval are continuing to transform our information society on several levels. To exploit the opportunities and address the challenges these developments bring with it, DAIREL's research bridges the gap between data-driven and user-driven approaches to support users' interaction with data and information in Big Data collections, in a fair and unbiased manner. DAIREL therefore follows a holistic view that integrates user as well as system aspects, which should not be seen in isolation. The DAIREL acronym can be interpreted differently at the same time:
 
 - **DA** stands for _Data_, the building block of our work and the fuel of our information society; data can be structured, semi-structured and unstructured, textual or multimedia, as well as heterogeneous - turning data into information is part of our mission;
 - **AI** stands for _Artificial Intelligence_, including deep machine learning, reinforcement learning, transformers, embeddings, generative AI, probabilistic logics and other 'intelligent' data processing and generative technologies;
@@ -21,13 +21,14 @@ We think all these different parts that make DAIREL should not be seen in isolat
 
 DAIREL's mission is to provide solutions to support users in their different tasks and domains when dealing with data and information. Our research topics and interests include
 
-* User-centric Information Access and Retrieval
+* User-centric Information Access, Retrieval and Recommendation
   * Retrieval-augmented generation
   * Interactive Models for multimodal information access inspired by Quantum Mechanics
   * Integration of cognitive theories (e.g, Polyrepresentation and Information Foraging)
   * Bibliometric-enhanced Information Retrieval
   * Cross-cultural Information Retrieval
   * Conversational agents
+  * Personalised Recommendation
 
 * Artificial Intelligence and Machine Learning
   * Probabilistic Logics
@@ -35,6 +36,7 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Deep Machine Learning for Information Retrieval and Recommender Systems
   * Neural models for Natural Language Processing
   * Responsible AI and Information Retrieval
+  * Neural Deep Learning Architectures 
 
 * Text Analysis and Natural Language Processing
   * Large Language Models and Embeddings
@@ -50,4 +52,5 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Sarcasm Detection
   * Expert Search
   * Machine Translation
+  * Speech enhancements and hearing aids
 
