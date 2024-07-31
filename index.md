@@ -43,6 +43,7 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Information Extraction
   * Text Categorisation
 
+<<<<<<< HEAD
 * Example Applications
   * Digital Humanities
   * Digital Libraries and Digital Museums
@@ -53,4 +54,15 @@ DAIREL's mission is to provide solutions to support users in their different tas
   * Expert Search
   * Machine Translation
   * Speech enhancements and hearing aids
+=======
+# Example Applications
+* Digital Humanities
+* Digital Libraries and Digital Museums
+* Authorship Attribution
+* Scholarly Search and Recommendation
+* Cyberstalking Detection
+* Sarcasm Detection
+* Expert Search
+* Machine Translation
+>>>>>>> b52860d0b421018ef93a021da48bbcc9884063fd
 
