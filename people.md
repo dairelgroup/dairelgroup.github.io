@@ -15,14 +15,13 @@ Interactive Information Access and Retrieval models; Bibliometric-enhanced Infor
 ## Researchers
 <p class='box-note' markdown='1'>
 **[Dr Anirban Chakraborty](https://anitcd.github.io)**
-Lecturer (~Assistant Professor)
-
+Lecturer (~Assistant Professor)  
 Personalised contextual recommender systems
 </p>
 
 <p class='box-note' markdown='1'>
 **Julius Odede**
-Lecturer
+Lecturer  
 LLM-based conversational information access
 </p>
 
