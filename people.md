@@ -16,6 +16,7 @@ Interactive Information Access and Retrieval models; Bibliometric-enhanced Infor
 <p class='box-note' markdown='1'>
 **[Dr Anirban Chakraborty](https://anitcd.github.io)**
 Lecturer (~Assistant Professor)
+
 Personalised contextual recommender systems
 </p>
 
