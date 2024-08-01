@@ -33,7 +33,7 @@ Authorship attribution in 19th-century texts using transformers and large langua
 </p>
 
 <p class='box-note' markdown='1'>
-**[Junaid Muzzafar](https://junaid340.github.io/#/home)**  
+**[Junaid Muzaffar](https://junaid340.github.io/#/home)**  
 Development of a new transformer architecture to address permutation-invariant problems in reinforcement learning
 </p>
 
