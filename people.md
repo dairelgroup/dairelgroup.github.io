@@ -28,7 +28,7 @@ Foundational tools for machine learning, computer vision and inverse problems, i
 
 <p class='box-note' markdown='1'>
 **[Julius Odede](https://julius-odede.vercel.app)**
-Lecturer 
+Lecturer  
 LLM-based conversational information access
 </p>
 
