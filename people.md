@@ -9,7 +9,7 @@ title: DAIREL People
 <p class='box-note' markdown='1'>
 **[Dr Ingo Frommholz](http://www.frommholz.org/)**
 Reader (~Associate Professor) in Data Science  
-Interactive Information Access and Retrieval models; Bibliometric-enhanced Information Retrieval; Scholarly Search
+Interactive Information Access and Retrieval models; AI and Machine Learning;  Bibliometric-enhanced Information Retrieval; Scholarly Search
 </p>
 
 ## Researchers
@@ -18,6 +18,13 @@ Interactive Information Access and Retrieval models; Bibliometric-enhanced Infor
 Lecturer (~Assistant Professor)  
 Personalised contextual recommender systems
 </p>
+
+<p class='box-note' markdown='1'>
+**[Dr Rahul Mourya](https://mouryarahul.github.io/)**
+Lecturer (~Assistant Professor)  
+Foundational tools for machine learning, computer vision and inverse problems, including optimization theory and algorithms, signal/image processing and analysis, learning theory and data science
+</p>
+
 
 <p class='box-note' markdown='1'>
 **Julius Odede**
