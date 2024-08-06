@@ -27,8 +27,8 @@ Foundational tools for machine learning, computer vision and inverse problems, i
 
 
 <p class='box-note' markdown='1'>
-**Julius Odede**
-Lecturer  
+**[Julius Odede](https://julius-odede.vercel.app)**
+Lecturer 
 LLM-based conversational information access
 </p>
 
@@ -69,7 +69,7 @@ Sarcasm detection in Japanese texts
 Automatic translation of Spanish texts
 </p>
 
-## Alumni
+# Alumni
 <p class='box-note' markdown='1'>
 **Damith Premasiri Dola Mullage**  
 Information Extraction and Categorisation in legal texts using large language models
