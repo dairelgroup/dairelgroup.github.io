@@ -9,7 +9,7 @@ title: DAIREL People
 <p class='box-note' markdown='1'>
 **[Dr Ingo Frommholz](http://www.frommholz.org/)**
 Reader (~Associate Professor) in Data Science  
-Interactive Information Access and Retrieval models; AI and Machine Learning;  Bibliometric-enhanced Information Retrieval; Scholarly Search
+Interactive Information Access and Retrieval models; AI and Machine Learning and its application in Information Access & Retrieval;  Bibliometric-enhanced Information Retrieval; Scholarly Search
 </p>
 
 ## Researchers
